@@ -16,12 +16,12 @@ Fine-tuned Real-ESRGAN ×2 model optimized for enhancing laptop screen images, i
 
 ## Usage
 
-You can use this model with the Real-ESRGAN inference script:
+You can use this model with the Real-ESRGAN inference script
 
 ## Configuration
 
 All training and inference parameters are defined in:
 
-configs/finetune_RealESRGAN_x2_LaptopCompact.yml
+finetune_RealESRGAN_x2_LaptopCompact.yml
 
 Feel free to modify degradation probabilities, network settings, or training schedule as required.
