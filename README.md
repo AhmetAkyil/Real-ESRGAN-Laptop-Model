@@ -18,7 +18,7 @@ Fine-tuned Real-ESRGAN ×2 model optimized for enhancing laptop screen images, i
 
 You can use this model with the Real-ESRGAN inference script:
 
-##Configuration
+## Configuration
 
 All training and inference parameters are defined in:
 
